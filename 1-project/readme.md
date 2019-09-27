@@ -62,7 +62,19 @@ Remember that your program should break down into several distinct parts:
 
 - **take user input** Process that input as needed `parseInt`, change a click action into a `true` value, increment a counter
 - **process that new data** Run a loop, function or conditional given that the user has done something / the data in your program has changed
-- **show something to the user** Manipulate the DOM to display a new state or content to the user. 
+- **show something to the user** Manipulate the DOM to display a new state or content to the user. \
+
+### Understand your MVP
+
+What is the minimum functionality your game needs to be playable? (The minimum funnctionality for tic tac toe is that the game "player" changes from X to O)
+
+ Clearly define **exactly** what that functionality is that you want to have before you begin coding.
+
+Keep in mind your structure and variables for future expansion, but **never** write any code that doesn't have to do with your current goal. 
+
+Don't worry about throwing away some code in the next version, after you get the MVP done.
+
+After defining your MVP, your code should still break down into many sub-tasks. These also need to be clearly defined.
 
 
 ### Agile Workflow
