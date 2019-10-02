@@ -16,7 +16,7 @@ class repo - software engineering immersive 20
 | Kevin |[Virtual Marketplace](https://kevinngth.github.io/Project-1-Game/)/[Link](https://github.com/kevinngth/Project-1-Game)||||
 | Maria |[What's Underneath](https://mau-dev.github.io/Project1-What-is-underneath/)/[Link](https://github.com/mau-dev/Project1-What-is-underneath)||||
 | Nathanael |[Color Match](https://nathanaeltan.github.io/color-match/)/[Link](https://github.com/nathanaeltan/color-match)||||
-| Norris |||||
+| Norris |[Mathematics 101](https://deetrax.github.io/project1/)/[Link](https://github.com/DeeTrax/project1)||||
 | Ryan |[Ripple](https://ryanrjyeo.github.io/Ripple/)/[Link](https://github.com/RyanRJyeo/Ripple)||||
 | Sharon |[Snake Game](https://sharxn13.github.io/Project-1/)/[Link](https://github.com/Sharxn13/Project-1)||||
 | Siew Ling |[Siew Link](https://tansiewling-hotmail.github.io/save-the-earth/)/[Link](https://github.com/tansiewling-hotmail/save-the-earth)||||
