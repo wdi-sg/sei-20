@@ -12,7 +12,8 @@ class repo - software engineering immersive 20
   <tr>
     <td>Brandon</td>
     <td><td>
-    <td>[Link](https://github.com/datguyrhy/datguyrhy.github.io)<td>
+    <td><a href="https://github.com/datguyrhy/datguyrhy.github.io">Link</a><td>
+    <td><td>
     <td><td>
     <td><td>
     <td><td>
