@@ -11,8 +11,8 @@ class repo - software engineering immersive 20
   </tr>
   <tr>
     <td colspan=1>Brandon</td>
-    <td colspan=1><td>
     <td colspan=1><a href="https://github.com/datguyrhy/datguyrhy.github.io">Link</a><td>
+    <td colspan=1><td>
     <td><td>
     <td><td>
   
