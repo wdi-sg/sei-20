@@ -7,7 +7,7 @@ class repo - software engineering immersive 20
 | Daniel |[Gold Theft Trap](https://dannyozh.github.io/Gold-Theft-Trap/)/[Link](https://github.com/dannyozh/Gold-Theft-Trap/)||||
 | David |[Craps in JavaScript](https://david-sg.github.io/craps-in-javascript-v2/)/[Link](https://github.com/david-sg/craps-in-javascript-v2)||||
 | Eden |[Colors](https://edenlim.github.io/GAProject1-Colors/)/[Link](https://github.com/edenlim/GAProject1-Colors)||||
-| Eugene |||||
+| Eugene |[NimNim Game](https://eugenetan9.github.io/Project-1/index.html)/[Link](https://github.com/EugeneTan9/Project-1)||||
 | Garrick |[Follow The Lights](https://garricktgh.github.io/Follow-the-lights/)/[Link](https://github.com/Garricktgh/Follow-the-lights)||||
 | Hong Jin |[Lunch!](https://lhjd.github.io/sei-20/)/[Link](https://github.com/lhjd/sei-20)||||
 | Jasmine |[Panda Goes Fishing!](https://jasminesis.github.io/panda-fishing/)/[Link](https://github.com/jasminesis/panda-fishing)||||
