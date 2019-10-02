@@ -24,7 +24,7 @@ class repo - software engineering immersive 20
 | Syahirah |[Serve Up!](https://animaguscat.github.io/project-1/)/[Link](https://github.com/AnimagusCat/project-1)||||
 | Terence |[Maze Runner](https://reshinto.github.io/maze_runner/)/[Link](https://github.com/reshinto/maze_runner)||||
 | Wee Kiat |||||
-| Yi Jin |||||
+| Yi Jin |[NIM](https://wongyijin8183.github.io/SEI-Project1-NIM/)/[Link](https://github.com/wongyijin8183/SEI-Project1-NIM)||||
 
 
 
