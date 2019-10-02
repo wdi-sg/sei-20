@@ -23,7 +23,7 @@ class repo - software engineering immersive 20
 | Sim Yen |[Welcome To Hogwarts](https://simyen.github.io/welcome-to-hogwarts/)/[Link](https://github.com/SimYen/welcome-to-hogwarts)||||
 | Syahirah |[Serve Up!](https://animaguscat.github.io/project-1/)/[Link](https://github.com/AnimagusCat/project-1)||||
 | Terence |[Maze Runner](https://reshinto.github.io/maze_runner/)/[Link](https://github.com/reshinto/maze_runner)||||
-| Wee Kiat |||||
+| Wee Kiat |[BlackJack](https://weekiattan.github.io/Project-1-Blackjack/index.html)/[Link](https://github.com/weekiattan/Project-1-Blackjack)||||
 | Yi Jin |[NIM](https://wongyijin8183.github.io/SEI-Project1-NIM/)/[Link](https://github.com/wongyijin8183/SEI-Project1-NIM)||||
 
 
