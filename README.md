@@ -14,7 +14,7 @@ class repo - software engineering immersive 20
 | Ji Nin |[TypeQuest](https://woofborn.github.io/TypeQuest/)/[Link](https://github.com/woofborn/TypeQuest)||||
 | Kelly |[Bingo The Word](https://kellylimmm.github.io/Bingo-The-Word/)/[Link](https://github.com/kellylimmm/Bingo-The-Word)||||
 | Kevin |[Virtual Marketplace](https://kevinngth.github.io/Project-1-Game/)/[Link](https://github.com/kevinngth/Project-1-Game)||||
-| Maria |||||
+| Maria |[What's Underneath](https://mau-dev.github.io/Project1-What-is-underneath/)/[Link](https://github.com/mau-dev/Project1-What-is-underneath)||||
 | Nathanael |[Color Match](https://nathanaeltan.github.io/color-match/)/[Link](https://github.com/nathanaeltan/color-match)||||
 | Norris |||||
 | Ryan |[Ripple](https://ryanrjyeo.github.io/Ripple/)/[Link](https://github.com/RyanRJyeo/Ripple)||||
