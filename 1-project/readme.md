@@ -52,6 +52,29 @@ Some possible reasons for choosing a given game:
 * **Commit early, commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
 * **Consult documentation resources** (MDN, jQuery, etc.) at home to better understand what you'll be getting into.
 * **Don't be afraid to write code that you know you will have to remove later.** Create temporary elements (buttons, links, etc) that trigger events if real data is not available. For example, if you're trying to figure out how to change some text when the game is over but you haven't solved the win/lose game logic, you can create a button to simulate that until then.
+* **Use pseudo code** write out notes to yourself about what needs to happen next in your program
+* **Write comments** comments are notes to yourself about what your code does. this will help you if you forget later (remember that explaining your code is a requirement of the project)
+* **Document your functions** use the exercise of defining your function data as an opprtunity to think about what your program needs to do
+
+### Program Structure
+
+Remember that your program should break down into several distinct parts:
+
+- **take user input** Process that input as needed `parseInt`, change a click action into a `true` value, increment a counter
+- **process that new data** Run a loop, function or conditional given that the user has done something / the data in your program has changed
+- **show something to the user** Manipulate the DOM to display a new state or content to the user. \
+
+### Understand your MVP
+
+What is the minimum functionality your game needs to be playable? (The minimum funnctionality for tic tac toe is that the game "player" changes from X to O)
+
+ Clearly define **exactly** what that functionality is that you want to have before you begin coding.
+
+Keep in mind your structure and variables for future expansion, but **never** write any code that doesn't have to do with your current goal. 
+
+Don't worry about throwing away some code in the next version, after you get the MVP done.
+
+After defining your MVP, your code should still break down into many sub-tasks. These also need to be clearly defined.
 
 
 ### Agile Workflow
