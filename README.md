@@ -3,7 +3,8 @@ class repo - software engineering immersive 20
 
 | Name | Project 1 | Project 2 | Project 3 | Project 4 |
 | ---- | --------- |---------- | --------- | --------- |
-| Brandon |[Burger Stacker](https://datguyrhy.github.io/)/[Link](https://github.com/datguyrhy/datguyrhy.github.io)||||
+| Brandon |[Burger Stacker](https://datguyrhy.github.io/)/[Link](https://github.com/datguyrhy/datguyrhy.github.io)|
+|||
 | Daniel |[Gold Theft Trap](https://dannyozh.github.io/Gold-Theft-Trap/)/[Link](https://github.com/dannyozh/Gold-Theft-Trap/)||||
 | David |[Craps in JavaScript](https://david-sg.github.io/craps-in-javascript-v2/)/[Link](https://github.com/david-sg/craps-in-javascript-v2)||||
 | Eden |[Colors](https://edenlim.github.io/GAProject1-Colors/)/[Link](https://github.com/edenlim/GAProject1-Colors)||||
