@@ -18,7 +18,7 @@ class repo - software engineering immersive 20
 | Nathanael |[Color Match](https://nathanaeltan.github.io/color-match/)/[Link](https://github.com/nathanaeltan/color-match)|[EZ Tripper](https://lit-falls-64728.herokuapp.com/welcome)/[Link](https://github.com/nathanaeltan/Project-2)|||
 | Norris |[Mathematics 101](https://deetrax.github.io/project1/)/[Link](https://github.com/DeeTrax/project1)|[Unicorn's Insurance Portal](https://pure-peak-59683.herokuapp.com/)/[Link](https://github.com/DeeTrax/mvc-template)|||
 | Ryan |[Ripple](https://ryanrjyeo.github.io/Ripple/)/[Link](https://github.com/RyanRJyeo/Ripple)|[FileUp](https://fileupp.herokuapp.com/)/[Link](https://github.com/RyanRJyeo/fileup)|||
-| Sharon |[Snake Game](https://sharxn13.github.io/Project-1/)/[Link](https://github.com/Sharxn13/Project-1)||||
+| Sharon |[Snake Game](https://sharxn13.github.io/Project-1/)/[Link](https://github.com/Sharxn13/Project-1)|[Expense Tracker](https://infinite-atoll-86209.herokuapp.com/)/[Link](https://github.com/Sharxn13/Project-2)|||
 | Siew Ling |[Siew Link](https://tansiewling-hotmail.github.io/save-the-earth/)/[Link](https://github.com/tansiewling-hotmail/save-the-earth)|[HR System](https://morning-brook-24534.herokuapp.com/)/[Link](https://github.com/tansiewling-hotmail/hr_system)|||
 | Sim Yen |[Welcome To Hogwarts](https://simyen.github.io/welcome-to-hogwarts/)/[Link](https://github.com/SimYen/welcome-to-hogwarts)|[Cat Community](https://feedr-community.herokuapp.com/)/[Link](https://github.com/SimYen/cat-community)|||
 | Syahirah |[Serve Up!](https://animaguscat.github.io/project-1/)/[Link](https://github.com/AnimagusCat/project-1)|[showMe](https://young-scrubland-07615.herokuapp.com/home)/[Link](https://young-scrubland-07615.herokuapp.com/home)|||
